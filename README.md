@@ -127,6 +127,6 @@ You can also get a [checking script](https://dl.xanmod.org/check_x86-64_psabi.sh
 
 We welcome contributions! You can:
 
-* 🐛 Report bugs by opening an [issue](https://github.com/Locietta/xanmod-kernel-WSL2/issues)
-* 💡 Suggest features via [issues](https://github.com/Locietta/xanmod-kernel-WSL2/issues)
+* 🐛 Report bugs by opening an [issue](https://github.com/Locietta/xanmod-kernel-WSL2/issues/new?template=bug_report.yml)
+* 💡 Suggest features via [issues](https://github.com/Locietta/xanmod-kernel-WSL2/issues/new?template=feature-request.yml)
 * 🔧 Submit improvements through [pull requests](https://github.com/Locietta/xanmod-kernel-WSL2/pulls)
